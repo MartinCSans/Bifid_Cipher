@@ -1,3 +1,10 @@
+# Code by: Martin Calderon Sanchez 
+# Team:
+# Melannie Torres
+# Martín Calderón
+# Gerardo Saldaña
+
+
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
